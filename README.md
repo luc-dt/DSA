@@ -33,7 +33,7 @@ DSA/
 | 6 | Sorting | [📄 PDF](docs/6_Sorting.pdf) | — |
 | 7 | Stacks & Queues | [📄 PDF](docs/7_Stacks.pdf) | — |
 | 14 | Binary Search | [📄 PDF](docs/14_BinarySearch.pdf) | — |
-| 15 | Dynamic Programming | [📄 PDF](docs/15_DynamicProgramming.pdf) | — |
+| 17 | Dynamic Programming | [📄 PDF](docs/15_DynamicProgramming.pdf) | — |
 
 ### StrataScratch — SQL & Python Challenges
 
