@@ -23,21 +23,36 @@ DSA/
 
 ### Codility — Lessons
 
-| # | Topic | Docs | Solution |
-|---|-------|------|----------|
-| 1 | Iterations | [📄 PDF](docs/1_Iterations.pdf) | [🔗 Notebook](scripts/1_Iterations.ipynb) |
-| 2 | Arrays | [📄 PDF](docs/2_Arrays.pdf) | [🔗 Notebook](scripts/2_Arrays.ipynb) |
-| 3 | Time Complexity | [📄 PDF](docs/3_TimeComplexity.pdf) | [🔗 Notebook](scripts/3_Time_Complexity.ipynb) |
-| 4 | Counting Elements | [📄 PDF](docs/4_CountingElements.pdf) | — |
-| 5 | Prefix Sums | [📄 PDF](docs/5_PrefixSums.pdf) | — |
-| 6 | Sorting | [📄 PDF](docs/6_Sorting.pdf) | — |
-| 7 | Stacks & Queues | [📄 PDF](docs/7_Stacks.pdf) | — |
-| 14 | Binary Search | [📄 PDF](docs/14_BinarySearch.pdf) | — |
-| 17 | Dynamic Programming | [📄 PDF](docs/15_DynamicProgramming.pdf) | — |
+| # | Topic | Status | Docs | Solution |
+|---|-------|--------|------|----------|
+| 1 | Iterations | ✅ Done | [📄 PDF](docs/1_Iterations.pdf) | [🔗 Notebook](scripts/1_Iterations.ipynb) |
+| 2 | Arrays | ✅ Done | [📄 PDF](docs/2_Arrays.pdf) | [🔗 Notebook](scripts/2_Arrays.ipynb) |
+| 3 | Time Complexity | ✅ Done | [📄 PDF](docs/3_TimeComplexity.pdf) | [🔗 Notebook](scripts/3_Time_Complexity.ipynb) |
+| 4 | Counting Elements | ✅ Done | [📄 PDF](docs/4_CountingElements.pdf) | [🔗 Notebook](scripts/4_Counting_Elements.ipynb) |
+| 5 | Prefix Sums | ✅ Done | [📄 PDF](docs/5_PrefixSums.pdf) | [🔗 Notebook](scripts/5_Prefix_Sums.ipynb) |
+| 6 | Sorting Algorithms | 🔄 In Progress | [📄 PDF](docs/6_Sorting.pdf) | — |
+| 7 | Stacks & Queues | 🔄 In Progress | [📄 PDF](docs/7_Stacks.pdf) | — |
+| 14 | Binary Search Algorithm | 🎯 Phase 1 | — | — |
+| 15 | Caterpillar Method | 🎯 Phase 1 | — | — |
+| 9 | Maximum Slice Problem | 🎯 Phase 1 | — | — |
+| 8 | Leader | 📋 Phase 2 | — | — |
+| 16 | Greedy Algorithms | 📋 Phase 2 | — | — |
+| 17 | Dynamic Programming | 📋 Phase 2 | — | — |
 
-### StrataScratch — SQL & Python Challenges
+### Supplementary Topics *(gap-fill — not in Codility)*
 
-> *(Solutions will be added as the course progresses)*
+> These topics are part of the mentor's roadmap but have no dedicated Codility lesson. Resources are sourced externally.
+
+| Topic | Status | Source | Docs | Solution |
+|-------|--------|--------|------|----------|
+| Hashing Patterns (2 Sum, Anagrams, Pair Sums Divisible by K) | 🎯 Phase 1 | GfG / StrataScratch | — | — |
+| String Basics (Palindrome, Subsequence, First Non-Repeating) | 🎯 Phase 1 | GfG / LeetCode | — | — |
+| Graphs — BFS/DFS + Topological Sort | 📋 Phase 2 | NeetCode.io (free) | — | — |
+| Monotonic Stack (Next Greater Element) | 📋 Phase 2 | GfG / LeetCode | — | — |
+| Heap / Top-K patterns | 📋 Phase 2 | NeetCode.io (free) | — | — |
+| Binary Trees (basics only) | 📋 Phase 2 (light) | NeetCode.io (free) | — | — |
+| Linked Lists | ⬇️ Low priority | NeetCode.io (free) | — | — |
+
 
 ---
 
