@@ -25,13 +25,13 @@ DSA/
 
 | # | Topic | Status | Docs | Solution |
 |---|-------|--------|------|----------|
-| 1 | Iterations | ✅ Done | [📄 PDF](docs/1_Iterations.pdf) | [🔗 Notebook](scripts/1_Iterations.ipynb) |
-| 2 | Arrays | ✅ Done | [📄 PDF](docs/2_Arrays.pdf) | [🔗 Notebook](scripts/2_Arrays.ipynb) |
-| 3 | Time Complexity | ✅ Done | [📄 PDF](docs/3_TimeComplexity.pdf) | [🔗 Notebook](scripts/3_Time_Complexity.ipynb) |
-| 4 | Counting Elements | ✅ Done | [📄 PDF](docs/4_CountingElements.pdf) | [🔗 Notebook](scripts/4_Counting_Elements.ipynb) |
-| 5 | Prefix Sums | ✅ Done | [📄 PDF](docs/5_PrefixSums.pdf) | [🔗 Notebook](scripts/5_Prefix_Sums.ipynb) |
-| 6 | Sorting Algorithms | 🔄 In Progress | [📄 PDF](docs/6_Sorting.pdf) | — |
-| 7 | Stacks & Queues | 🔄 In Progress | [📄 PDF](docs/7_Stacks.pdf) | — |
+| 1 | Iterations | ✅ Done | [📄 PDF](docs/01_Iterations.pdf) | [🔗 Notebook](scripts/01_Iterations.ipynb) |
+| 2 | Arrays | ✅ Done | [📄 PDF](docs/02_Arrays.pdf) | [🔗 Notebook](scripts/02_Arrays.ipynb) |
+| 3 | Time Complexity | ✅ Done | [📄 PDF](docs/03_TimeComplexity.pdf) | [🔗 Notebook](scripts/03_Time_Complexity.ipynb) |
+| 4 | Counting Elements | ✅ Done | [📄 PDF](docs/04_CountingElements.pdf) | [🔗 Notebook](scripts/04_Counting_Elements.ipynb) |
+| 5 | Prefix Sums | ✅ Done | [📄 PDF](docs/05_PrefixSums.pdf) | [🔗 Notebook](scripts/05_Prefix_Sums.ipynb) |
+| 6 | Sorting Algorithms | 🔄 In Progress | [📄 PDF](docs/06_Sorting.pdf) | — | [🔗 Notebook](scripts/06_Sorting.ipynb) |
+| 7 | Stacks & Queues | 🔄 In Progress | [📄 PDF](docs/07_Stacks.pdf) | — |
 | 14 | Binary Search Algorithm | 🎯 Phase 1 | — | — |
 | 15 | Caterpillar Method | 🎯 Phase 1 | — | — |
 | 9 | Maximum Slice Problem | 🎯 Phase 1 | — | — |
