@@ -30,18 +30,18 @@ DSA/
 | 3 | Time Complexity | ✅ Done | [📄 PDF](docs/03_TimeComplexity.pdf) | [🔗 Notebook](scripts/03_Time_Complexity.ipynb) |
 | 4 | Counting Elements | ✅ Done | [📄 PDF](docs/04_CountingElements.pdf) | [🔗 Notebook](scripts/04_Counting_Elements.ipynb) |
 | 5 | Prefix Sums | ✅ Done | [📄 PDF](docs/05_PrefixSums.pdf) | [🔗 Notebook](scripts/05_Prefix_Sums.ipynb) |
-| 6 | Sorting Algorithms | 🔄 In Progress | [📄 PDF](docs/06_Sorting.pdf) | — | [🔗 Notebook](scripts/06_Sorting.ipynb) |
+| 6 | Sorting Algorithms | 🔄 In Progress | [📄 PDF](docs/06_Sorting.pdf) | [🔗 Notebook](scripts/06_Sorting.ipynb) |
 | 7 | Stacks & Queues | 🔄 In Progress | [📄 PDF](docs/07_Stacks.pdf) | — |
-| 14 | Binary Search Algorithm | 🎯 Phase 1 | — | — |
+| 14 | Binary Search Algorithm | 🎯 Phase 1 | [📄 PDF](docs/14_BinarySearch.pdf) | — |
 | 15 | Caterpillar Method | 🎯 Phase 1 | — | — |
 | 9 | Maximum Slice Problem | 🎯 Phase 1 | — | — |
 | 8 | Leader | 📋 Phase 2 | — | — |
 | 16 | Greedy Algorithms | 📋 Phase 2 | — | — |
-| 17 | Dynamic Programming | 📋 Phase 2 | — | — |
+| 17 | Dynamic Programming | 📋 Phase 2 | [📄 PDF](docs/17_DynamicProgramming.pdf) | — |
 
 ### Supplementary Topics *(gap-fill — not in Codility)*
 
-> These topics are part of the mentor's roadmap but have no dedicated Codility lesson. Resources are sourced externally.
+> These topics are part of the Data Engineering's roadmap but have no dedicated Codility lesson. Resources are sourced externally.
 
 | Topic | Status | Source | Docs | Solution |
 |-------|--------|--------|------|----------|
