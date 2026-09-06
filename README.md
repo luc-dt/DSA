@@ -30,7 +30,7 @@ DSA/
 | 3 | Time Complexity | ✅ Done | [📄 PDF](docs/03_TimeComplexity.pdf) | [🔗 Notebook](scripts/03_Time_Complexity.ipynb) |
 | 4 | Counting Elements | ✅ Done | [📄 PDF](docs/04_CountingElements.pdf) | [🔗 Notebook](scripts/04_Counting_Elements.ipynb) |
 | 5 | Prefix Sums | ✅ Done | [📄 PDF](docs/05_PrefixSums.pdf) | [🔗 Notebook](scripts/05_Prefix_Sums.ipynb) |
-| 6 | Sorting Algorithms | 🔄 In Progress | [📄 PDF](docs/06_Sorting.pdf) | [🔗 Notebook](scripts/06_Sorting.ipynb) |
+| 6 | Sorting Algorithms | ✅ Done | [📄 PDF](docs/06_Sorting.pdf) | [🔗 Notebook](scripts/06_Sorting.ipynb) |
 | 7 | Stacks & Queues | 🔄 In Progress | [📄 PDF](docs/07_Stacks.pdf) | — |
 | 14 | Binary Search Algorithm | 🎯 Phase 1 | [📄 PDF](docs/14_BinarySearch.pdf) | — |
 | 15 | Caterpillar Method | 🎯 Phase 1 | — | — |
